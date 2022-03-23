@@ -1,5 +1,7 @@
 ### Hello ! I am Saly 👋
 
+I speak Python, Django, Flask, Odoo, JavaScript, PHP.   :triumph: :triumph: :muscle:
+
 <!--
 **elmaroufa/elmaroufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
