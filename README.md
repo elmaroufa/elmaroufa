@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on odoo 15 project and full stack application flask (flaskblog) 
-- 🌱 I’m currently learning odoo 15 development essentials
+- 🌱 I’m currently learning odoo 15 development essentials book
  
 <!--
 **elmaroufa/elmaroufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
