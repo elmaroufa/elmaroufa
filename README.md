@@ -1,7 +1,11 @@
-### Hello ! I am Saly 👋
+# Hello ! I am Saly 👋
 
-I speak Python, Django, Flask, Odoo, JavaScript, PHP.   :triumph: :triumph: :muscle:
+## I speak Python, Django, Flask, Odoo, JavaScript, PHP.   :triumph: :triumph: :muscle:
 
+
+- 🔭 I’m currently working on odoo 15 project
+- 🌱 I’m currently learning 
+ 
 <!--
 **elmaroufa/elmaroufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
