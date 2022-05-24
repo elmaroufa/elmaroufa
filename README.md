@@ -3,8 +3,8 @@
 ## I speak Python, Django, Flask, Odoo, JavaScript, PHP.   :triumph: :triumph: :muscle:
 
 
-- 🔭 I’m currently working on odoo 15 project and full stack application flask (flaskblog) 
-- 🌱 I’m currently learning odoo 15 development essentials book
+- 🔭 I’m currently working on odoo 13 project and full stack application flask (flaskblog) 
+- 🌱 I’m currently learning odoo 12 development essentials
  
 <!--
 **elmaroufa/elmaroufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
