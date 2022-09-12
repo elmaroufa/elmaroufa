@@ -1,6 +1,6 @@
 # Hello ! I am Saly 👋
 
-## I speak Python, Django, Flask, Odoo, JavaScript, PHP.   :triumph: :triumph: :muscle:
+## I speak Python,Java, Django, Flask, Odoo, JavaScript, PHP.   :triumph: :triumph: :muscle:
 
 
 - 🔭 I’m currently working on odoo 13 project and full stack application by django (my website); 
