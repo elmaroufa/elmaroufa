@@ -3,8 +3,8 @@
 ## I speak Python, Odoo, Java Spring Boot and Angular :triumph: :triumph: :muscle:
 
 
-- 🌱 I’m currently working my portfolio coding using ReactJs 
-- 🔭 I’m currently working on odoo 13 project and full stack application by django (my website); 
+- 🌱 I’m currently working my portfolio coding using Angular 
+- 🔭 I’m currently working on odoo 15 project and full stack application by spring boot and angular
 
  
 <!--
