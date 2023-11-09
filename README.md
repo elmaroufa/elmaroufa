@@ -1,6 +1,7 @@
 # Hello ! I am Saly 👋
 
 ## I speak Python, Odoo, Java Spring Boot and Angular :triumph: :triumph: :muscle
+# Now I am learning Flask Python and reading about how to create a web app using Java and Angular 16.
 
  
 <!--
