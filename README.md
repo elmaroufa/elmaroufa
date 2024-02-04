@@ -1,4 +1,4 @@
-# Hello ! I am Saly 👋
+# Hello ! I'm Saly 👋
 
 ## I speak Python, Odoo, Java Spring Boot and Angular :triumph: :triumph: :muscle:
 
