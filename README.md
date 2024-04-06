@@ -1,6 +1,6 @@
 # <img src="https://github.com/gabriel-TheCode/gabriel-TheCode/blob/master/gifs/Hi.gif" width="30px">  Hello ! I'm Saly 
 
-## I speak Python, Odoo, Java Spring Boot and Angular :triumph: :triumph: :muscle:
+## I speak Python, Odoo, OWL, Java Spring Boot and Angular :triumph: :triumph: :muscle:
 
  
 <!--
