@@ -2,13 +2,15 @@
 
 ## I speak Python, Odoo, OWL, Java Spring Boot and Angular :triumph: :triumph: :muscle:
 
- 
+  🔭 I’m currently working on ...  ''' on odoo 17 project '''
+  
 <!--
 **elmaroufa/elmaroufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Link my portfolio :
+  [abbo portfolio](https://elmaroufa.github.io/portfolio-abbo/)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
