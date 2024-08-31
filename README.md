@@ -2,7 +2,7 @@
 
 ## I speak Python, Odoo, OWL, Java Spring Boot and Angular :triumph: :triumph: :muscle:
 
-  🔭 I’m currently working on ...  ''' e-transit project in odoo 17 '''
+  🔭 I’m currently working on ...  ''' e-transit project in odoo 17 and add for pre register in portal web site odoo '''
   
 <!--
 **elmaroufa/elmaroufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
