@@ -2,7 +2,12 @@
 
 ## I speak Python, Odoo, OWL, Java Spring Boot and Angular :triumph: :triumph: :muscle:
 
-  🔭 I’m currently working on ...  ''' e-transit- invoice transit'''
+ ## About Me
+
+- Currently, I am working on various Odoo projects focused on supply chain management.  
+- I am also learning the Dart programming language to enhance my skills.  
+- Additionally, I am exploring prompt engineering to become more efficient in my work as a developer.  
+
   
 <!--
 **elmaroufa/elmaroufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
