@@ -1,11 +1,11 @@
 # <img src="https://github.com/gabriel-TheCode/gabriel-TheCode/blob/master/gifs/Hi.gif" width="30px">  Hello ! I'm Saly 
 
-## I speak Python, Odoo, OWL, Java Spring Boot and Angular :triumph: :triumph: :muscle:
+## I speak Python, Odoo, OWL, Angular :triumph: :triumph: :muscle:
 
  ## About Me
 
 - Currently, I am working on various Odoo projects focused on supply chain management.  
-- I am also learning the Dart programming language to enhance my skills.  
+- I am also learning prompt engineering.  
 - Additionally, I am exploring prompt engineering to become more efficient in my work as a developer.  
 
   
