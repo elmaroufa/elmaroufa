@@ -6,7 +6,7 @@
 
 - Currently, I am working on various Odoo projects focused on supply chain management.  
 - I am also learning AI engineering.  
-
+- I 'm learn cloud with oracle.
 
   
 <!--
